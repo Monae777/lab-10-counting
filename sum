@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script>
+       var total = 0;
+       for (var a =0; a <3: a++) {
+
+       var tally = parseInt (prompt("give me a number to add?"));
+        total +=tally;
+
+        {
+
+        console.log ("the sum is " + total);
+        </script>
+  </head>
+  <body>
+
+  </body>
+</html>
